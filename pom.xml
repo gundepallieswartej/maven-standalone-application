@@ -19,7 +19,7 @@
 
 	<properties>
 		<sonar.host.url>http://13.235.238.122:9000/</sonar.host.url>
-		<sonar.login>sqa_f4ad063a45060068319dac56facdc683febb59e8</sonar.login>
+		<sonar.login>sqp_45ce53ca19fd8dcdeb2ca1fb4a7cc7566cf3b2aa</sonar.login>
 		<!--
 		<sonar.password>admin</sonar.password>
 		-->		
